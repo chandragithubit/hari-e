@@ -1,0 +1,9 @@
+create new repo on the command line
+echo "#hari-e>>[D[D[De[ >> README.md
+git init
+git add READ.md
+git commit -m "first commit"
+git branch -m main
+git remote add orgin https://github.com/chandragithubit/hari-e.git
+git push -u orgin main
+
