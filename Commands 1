@@ -1,0 +1,21 @@
+ls
+git clone directory name
+ls
+cat >> f2   -> add branch/file and add code and matter ctrl+d save
+git status
+git add. 
+git statusditcat
+git commit -m ""
+git status
+git push orgin main
+git addgit 
+
+---------------------------------
+create new repo on the command line
+echo "#hari-e>>[D[D[De[ >> README.md
+git init
+git add READ.md
+git commit -m "first commit"
+git branch -m main
+git remote add orgin https://github.com/chandragithubit/hari-e.git
+git push -u orgin main
